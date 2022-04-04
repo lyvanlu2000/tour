@@ -1,0 +1,115 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5rem;
+  background-color: #ffffff;
+  color: rgb(19, 1, 1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10%;
+  z-index: 10;
+  box-shadow: 3px 3px 5px 6px #ccc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header button {
+  background-color: rgb(66, 162, 252);
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 6px;
+  width: 10%;
+  height: 50%;
+  color: #ffffff;
+  font-weight: 800;
+  border-style: none;
+}
+
+.main-image {
+  width: 100%;
+  height: 35rem;
+  z-index: 0;
+  overflow: hidden;
+  margin-top: 5%;
+}
+
+.main-image img {
+  width: 80%;
+  height: 60%;
+  object-fit: cover;
+  margin-left: 10%;
+}
+
+.main-image h1 {
+  color: black;
+  width: 50%;
+  height: 5rem;
+  margin-left: 10%;
+}
+.dropdow {
+  margin-left: 150px;
+}
+
+.quicklink {
+  width: auto;
+  margin-top: 5px;
+}
+.quicklink a {
+  color: black;
+  float: left;
+  padding-right: 10px;
+  padding-left: 0px;
+  text-decoration: none;
+  width: auto;
+  height: 30px;
+}
+
+.icon {
+  float: left;
+  padding-right: 30px;
+  width: 20px;
+}
+.vnd {
+  position: relative;
+  top: 5px;
+  margin-top: 5px;
+}
+
+.dangnhap {
+  margin-top: 5px;
+}
+
+.dow {
+  margin-left: 3px;
+  float: right;
+}
+
+.ava {
+  position: relative;
+  bottom: 2px;
+  float: left;
+  padding-right: 25px;
+  width: 25px;
+  background-color: rgb(170, 159, 159);
+  border-radius: 14px;
+}
+.ava img {
+  width: 20px;
+  position: relative;
+  left: 2px;
+}
+
+.saovang {
+  position: relative;
+  bottom: 5px;
+
+  float: left;
+  padding-right: 30px;
+  width: 30px;
+}
+
+.saovang img {
+  width: 30px;
+}

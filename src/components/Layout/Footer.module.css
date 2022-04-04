@@ -1,0 +1,88 @@
+.footer {
+  background-color: black;
+  margin-top: 10%;
+  height: 800px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer p {
+  color: white;
+  text-align: left;
+}
+.Hang1 {
+  margin-left: 20%;
+  float: left;
+  width: 17%;
+}
+.Hang1 img {
+  margin-left: 20px;
+}
+.Hang1 h1 {
+  color: white;
+}
+.khung {
+  margin-top: 20px;
+  color: white;
+  outline-style: solid;
+  height: 70px;
+}
+.khung p {
+  position: relative;
+  top: 20px;
+  display: inline;
+  margin-left: 5px;
+}
+.khung img {
+  position: relative;
+  top: 20px;
+  float: left;
+  margin-right: 5px;
+}
+.Hang2 {
+  margin-top: 20px;
+  float: left;
+  width: 15%;
+  margin-left: 5%;
+}
+
+.Hang3 {
+  margin-top: 20px;
+  float: left;
+  width: 15%;
+}
+.Hang4 {
+  margin-top: 20px;
+  float: left;
+  width: 15%;
+}
+
+.doitac {
+  float: left;
+
+  position: relative;
+  width: 70px;
+  height: 48px;
+
+  background: white;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+.doitac img {
+  height: auto;
+  width: 45px;
+  position: relative;
+  top: 10px;
+  right: 5px;
+}
+
+.link a {
+  display: block;
+  color: rgb(117, 107, 107);
+  padding-top: 10px;
+  text-decoration: none;
+}
+
+.link img {
+  padding-top: 3px;
+  padding-right: 5px;
+}

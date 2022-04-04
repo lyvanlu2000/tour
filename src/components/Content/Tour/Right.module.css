@@ -1,0 +1,98 @@
+.container {
+  margin-left: 10%;
+
+  width: 80%;
+  height: 800px;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.right {
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 14px;
+  color: black;
+  width: 65%;
+  height: 60px;
+  margin-left: 35%;
+  
+
+}
+
+.locgia {
+  margin: 5px 5px;
+  width: 300px;
+  height: 50px;
+  border-radius: 8px;
+  background-color: white;
+  border-color: rgb(228, 223, 223);
+}
+.locgia img {
+  border-radius: 20px;
+
+  margin-left: 20px;
+  width: 20px;
+  height: 20px;
+}
+
+.xeptheo {
+  margin-left: 52%;
+  height: 50px;
+  border-radius: 8px;
+  background-color: white;
+  border-color: rgb(228, 223, 223);
+  
+}
+
+
+.xeptheo img {
+  border-radius: 20px;
+
+  margin-left: 20px;
+  width: 20px;
+  height: 20px;
+}
+
+.danhsach{
+  margin-left: 35%;
+}
+.hinhanh{
+  margin-top: 20px;
+  border-radius: 6px;
+  width: 980px;
+  height: 200px;
+  box-shadow: 2px 2px 2px 2px #ccc;
+  
+}
+.hinhanh img{
+  
+  width: 400px;
+  height: 200px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  float: left;
+
+}
+
+.noidung{
+  position: relative;
+  top: 30px;
+  left: 30px;
+  margin-left: 400px;
+  margin-top: 5px;
+  
+  width: 200px;
+  height: 150px;
+}
+
+.noidung h1{
+  position: relative;
+  top: 20px;
+ margin-left: 20px;
+ color: red;
+}
+
+.noidung h2{
+  
+  margin-left: 20px;
+}
